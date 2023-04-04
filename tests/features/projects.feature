@@ -14,7 +14,7 @@ Feature: Todoist Projects
         And the user sets "Project1" as Project Name on the Add Project popup
 
         #Colors:Yellow, Blue, Green, Teal, Light Blue, Violet, Magenta,"Olive Green","Lime Green"
-        And the user selects the "Teall" color of his preference
+        And the user selects the "Teal" color of his preference
         
         #AddToFavorites: true or false
         And the user clicks "true" in add to Favorites
