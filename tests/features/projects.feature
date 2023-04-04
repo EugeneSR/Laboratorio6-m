@@ -3,7 +3,7 @@ Feature: Todoist Projects
     Background: Login into Todoist
         Given the user logged into Todoist
 
-
+@ui-tests @api-tests
     Scenario: Create Project
     
         Given the user hovers the mouse on Projects label on the Vertical Menu
